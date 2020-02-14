@@ -1,2 +1,3 @@
-# aula-de-OO
-estudos
+# estudos focados
+hugo perlin
+
